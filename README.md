@@ -18,7 +18,6 @@ We evaluate our method on the following widely-used 3D medical image segmentatio
 
 ## 📂 Code Availability
 
-The source code is currently under preparation.  
 👉 **Full code will be released upon paper acceptance/publication.**
 
 Stay tuned for updates, and feel free to watch or star the repository!
