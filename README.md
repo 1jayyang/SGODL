@@ -1,4 +1,4 @@
-# SGODL: Statistically Guided Optimal Distribution Learning for Semi-Supervised Medical Image Segmentation
+# Towards Internal Covariate Shift: Statistically Guided Optimal Distribution Learning for Semi-Supervised Medical Image Segmentation
 
 ## 📄 Abstract
 
